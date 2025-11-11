@@ -1,0 +1,22 @@
+
+
+h2 { background-color:#8B0000;
+    color: white; 
+    padding: 8px 10px;
+    border-left: 6px solid #8B0000;
+    margin-top: 20px;
+    font-family: 'Palatino Linotype', 'Georgia', serif;
+   }
+
+ul { list-style-type: square;
+     padding-left: 20px;
+     list-style-color:#FFD700;	
+   }
+li{
+  }
+
+body { font-family: Georgia', serif;
+       background-color:#fff8dc;
+       margin: 0;
+       padding: 0;
+     }
